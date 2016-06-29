@@ -1,1 +1,1 @@
-# New-Ecstore
+# Git教程
